@@ -1,0 +1,38 @@
+GIT: Distributed Version Control System
+
+VCS: 2 Types Of VCS
+		
+		CVCS- centralized VCS - ex: SVN(Subversion) 
+			- One Repo(Central)
+			- we need Network to connect 
+			- It will be slow (Network speed)
+		
+		DVCS- Distributed Version contorl system ex: GIT
+			- Every Person will have Local Repo
+			- we can work offline
+			- Fast
+			
+GIT : its is a DVCS it is invented by Linus Torvalds(Linux) in 2005
+	- Free opensource
+	- speed
+	- Easyasy braching
+	- Secured
+	
+	
+	Basic Operations:
+	1) Initialize
+	2) Add
+	3) Commit
+	4) Push
+	5) Pull
+	Advanced Operation:
+	1) Branching
+	2) Merging
+	3) Rebasing
+	
+	
+
+
+	
+	
+	
