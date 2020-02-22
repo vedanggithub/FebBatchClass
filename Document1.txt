@@ -31,7 +31,10 @@ GIT : its is a DVCS it is invented by Linus Torvalds(Linux) in 2005
 	3) Rebasing
 	
 	
-
+	
+First time Configuration:
+git config --global user.name "vedanggithub"
+git config --global user.email vedang@whitebox-learning.com
 
 	
 	
